@@ -1,0 +1,6 @@
+name: Log4j-Filter
+version: '${version}'
+main: com.github.crafttogether.log4jfilter.Log4jFilter
+api-version: 1.18
+authors: [ Marian ]
+description: Filters sensible data from log4j
